@@ -1,0 +1,2 @@
+# NVIDIA_DALI_AND_nvJPEG
+DALI是一个GPU加速数据增强和图像加载库，nvJPEG是JPEG解码的高性能GPU加速库
